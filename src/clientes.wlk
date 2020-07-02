@@ -1,3 +1,5 @@
+import vendedores.*
+
 class Cliente {	method puedeSerAtendidoPor(unVendedor) }
 //			--------PREGUNTAR SI ES NECESARIO ESTA CLASE ABSTRACTA--------
 
